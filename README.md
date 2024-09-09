@@ -38,12 +38,12 @@ The random forest model identified several key factors that strongly influence e
 
 ### Visualizations:
 1. **Bar Plot of Relevant Variables** <br>
-   ![image](https://github.com/user-attachments/assets/d3fddc94-d53e-4ec5-8183-f5a0366c2c34)
+   ![image](https://github.com/user-attachments/assets/d3fddc94-d53e-4ec5-8183-f5a0366c2c34) <br>
    The bar plot above highlights the most important factors, such as `last_evaluation`, `number_project`, `tenure`, and `overworked`, that contribute to employee attrition.
 
 3. **Feature Importance from Random Forest Model**  <br>
-   !![image](https://github.com/user-attachments/assets/3f3a3bdf-c918-4ff5-a45c-c30e59283db1)
- 
+   ![image](https://github.com/user-attachments/assets/3f3a3bdf-c918-4ff5-a45c-c30e59283db1)
+ <br>
    In the random forest model, the most important variables are `last_evaluation`, `tenure`, `number_project`, `overworked`, `salary_low`, and `work_accident`. These variables are the strongest predictors of whether an employee will leave the company.
 
 ---
