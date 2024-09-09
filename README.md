@@ -37,12 +37,13 @@ The random forest model identified several key factors that strongly influence e
   - Evaluation scores should be more proportionately tied to employee contributions rather than excessively rewarding employees who work 200+ hours per month.
 
 ### Visualizations:
-1. **Bar Plot of Relevant Variables**  
-   ![Bar Plot](img1.jpg)  
+1. **Bar Plot of Relevant Variables**
+   ![image](https://github.com/user-attachments/assets/d3fddc94-d53e-4ec5-8183-f5a0366c2c34)
    The bar plot above highlights the most important factors, such as `last_evaluation`, `number_project`, `tenure`, and `overworked`, that contribute to employee attrition.
 
-2. **Feature Importance from Random Forest Model**  
-   ![Random Forest Feature Importance](img2.jpg)  
+3. **Feature Importance from Random Forest Model**  
+   !![image](https://github.com/user-attachments/assets/3f3a3bdf-c918-4ff5-a45c-c30e59283db1)
+ 
    In the random forest model, the most important variables are `last_evaluation`, `tenure`, `number_project`, `overworked`, `salary_low`, and `work_accident`. These variables are the strongest predictors of whether an employee will leave the company.
 
 ---
